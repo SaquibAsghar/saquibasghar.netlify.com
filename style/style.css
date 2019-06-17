@@ -1,0 +1,28 @@
+.side-header{
+    background: #2e847c;;
+    color: #fff;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+.side-headerContent{
+    margin: 10px;
+}
+
+.profilePic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: black 2px 5px 5px;
+}
+
+a{
+    color: #fff;
+}
